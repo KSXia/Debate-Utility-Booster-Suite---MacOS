@@ -1,4 +1,4 @@
-' ===Debate Utility Booster Suite - MacOS - v1.1.3===
+' ===Debate Utility Booster Suite - MacOS - v1.1.4===
 ' Updated on 2024-09-27.
 ' https://github.com/KSXia/Debate-Utility-Booster-Suite---MacOS
 ' Thanks to Truf for creating and providing his Verbatim macros, upon which many of these macros and sub procedures are built upon! Macros in the Debate Utility Booster Suite built upon macros or code that Truf wrote have more specific attribution in their header(s). You can find Truf's macros on his website at https://debate-decoded.ghost.io/leveling-up-verbatim/
@@ -207,12 +207,6 @@ Sub NumberArguments()
 	Next p
 	' End of code based on Verbatim 6.0.0's functions.
 End Sub
-
-' ---Read Doc Creator v2.0.0---
-' Updated on 2024-08-23.
-' This macro consists of 6 sub procedures.
-' https://github.com/KSXia/Verbatim-Read-Doc-Creator
-' Thanks to Truf for creating and providing the original code for activating invisibility mode! You can find Truf's macros on his website at https://debate-decoded.ghost.io/leveling-up-verbatim/
 
 ' ---Read Doc Creator v2.0.7---
 ' Updated on 2024-09-08.
